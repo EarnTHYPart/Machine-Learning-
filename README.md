@@ -90,20 +90,6 @@ jupyter notebook
 2. Run cells sequentially to see the analysis and results
 3. Modify parameters and experiment with different models
 
-## 📊 Results and Performance
-
-### Classification Results
-- Model accuracy comparisons
-- Confusion matrices
-- ROC curves and AUC scores
-- Feature importance analysis
-
-### Regression Results
-- R² scores and RMSE values
-- Residual analysis
-- Feature correlation studies
-- Prediction vs actual plots
-
 ## 🔍 Project Highlights
 - **Comprehensive Analysis**: End-to-end machine learning pipeline
 - **Multiple Algorithms**: Comparison of various ML techniques
@@ -120,14 +106,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
-**Your Name** - your.email@example.com
-
-Project Link: [https://github.com/EarnTHYPart/your-repo-name](https://github.com/EarnTHYPart/your-repo-name)
-
 ## 🙏 Acknowledgments
 - UCI Machine Learning Repository for the Magic Gamma Telescope dataset
 - Seoul Metropolitan Government for the bike sharing dataset
@@ -136,4 +114,5 @@ Project Link: [https://github.com/EarnTHYPart/your-repo-name](https://github.com
 
 ---
 ⭐ **Star this repository if you found it helpful!** ⭐
+
 
