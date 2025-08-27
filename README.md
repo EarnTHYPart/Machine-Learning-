@@ -41,10 +41,6 @@ This repository contains implementations of various machine learning models for 
 ### Regression Models
 - **Linear Regression**
 - **Polynomial Regression**
-- **Ridge Regression**
-- **Lasso Regression**
-- **Random Forest Regression**
-- **Support Vector Regression (SVR)**
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
@@ -140,3 +136,4 @@ Project Link: [https://github.com/EarnTHYPart/your-repo-name](https://github.com
 
 ---
 ⭐ **Star this repository if you found it helpful!** ⭐
+
